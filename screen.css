@@ -1,0 +1,60 @@
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,700;1,300;1,700&display=swap');
+</style>
+
+
+body {font-family: 'Open Sans', sans-serif; font-size: 16px; font-weight: 300; margin: 0; padding; 0;}
+#page {max-width: 1500px; position: relative;}
+
+/* HEADER*/
+
+header {background-color: #31B1E9;}
+
+
+
+/*sSECTION_ONE*/
+
+
+section.icons { margin-top: 40px; margin-bottom: 120px; padding: 0; margin-left: 50px;}
+section.icons aside {float: left; background-color: lightblue; width: 16%;}
+
+
+
+/* SECTION_TWO*/
+
+.content {background-color: lightgray;}
+div.content {height: 80px; width: 50%; margin-left: 80px; text-align:center;}
+section.main { margin-top: 40px; margin-bottom: 20px; padding: 0; margin-top: 40px;}
+section.main aside {width: 33%; float: left; text-align:center; margin-bottom: 20px;}
+
+section.main.content { margin: 25px; background-size: 75px 75px;}
+
+
+section.graph { margin-top: 80px; margin-bottom: 50px; padding: 0;} 
+div.Image1 {float: left;}
+div.Image2 {float: right;}
+
+.first{
+text-align: right;
+
+}
+
+
+
+table {
+  
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align:center;
+  padding: 12px;
+}
+
+
+/* FOOTER*/
+
+footer {background-color: gray; margin-top: 20px;}
+div.footer { max-width: 10%;}
